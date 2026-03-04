@@ -251,5 +251,3 @@ MIT
 ---
 
 Built for the [OpenClaw Showcase](https://luma.com/qt1z6mzk) by Razorpay, OpenAI & Peak XV Partners.
-
-*Don't just attend. Build. Then show up.* 🦞
